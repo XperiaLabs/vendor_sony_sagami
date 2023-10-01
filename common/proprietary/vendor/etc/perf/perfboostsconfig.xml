@@ -804,7 +804,7 @@
         <!-- MAX_ONLINE_CPU_CLUSTER_PRIME, 0x0 -->
         <Config
                 Id="0x00001040" Enable="true" Timeout="0" Target="lahaina"
-                Resources="0x40000000, 0x0, 0x41004000, 0x0, 0x41004200, 0x0" />
+                Resources="0x40000000, 0x0" />
 
         <Config
                 Id="0x00001040" Enable="true" Timeout="0" Target="shima"
