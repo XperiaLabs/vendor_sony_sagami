@@ -1929,7 +1929,6 @@ PRODUCT_PACKAGES += \
     ImsRcsService \
     QtiTelephony \
     QtiTelephonyService \
-    datastatusnotification \
     embms \
     uceShimService \
     WfdService \
